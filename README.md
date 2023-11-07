@@ -12,7 +12,7 @@ In this assignment, let's build a Todolist by applying the concepts we learned t
 
 
 Refer to the below image.
-
+[https://nkb-backend-media-static-tenxiitian.s3.ap-south-1.amazonaws.com/tenxiitian_prod/programs/Tech+Programs/frontend-content/ccbp/coding-practice-questions/static-websites/todo-list-v6.png](url)
 
 
 todo-list-to-build
