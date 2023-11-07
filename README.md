@@ -12,6 +12,7 @@ In this assignment, let's build a Todolist by applying the concepts we learned t
 
 
 Refer to the below image.
+![todo-list-v6](https://github.com/ra-ghava/TodoList/assets/146189602/6850f899-aa92-47ae-916d-83f704ea6bc2)
 
 
 
