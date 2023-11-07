@@ -1,9 +1,54 @@
 # TodoList
 I created the todo list by using HTML and CSS Technologies 
 
-Todolist - Design Template
+Todo list - Project Specifications
+Todolist
+Easy
+Solved
 
-![todolist-Design Template](https://github.com/ra-ghava/TodoList/assets/146189602/40586d7b-3466-472c-8d3c-4f74455bed14)
+Helpful
+In this assignment, let's build a Todolist by applying the concepts we learned till now.
+
+
+
+Refer to the below image.
+
+
+
+todo-list-to-build
+
+
+
+Note:
+
+Try to achieve the design as close as possible.
+
+Resources
+Use this background image,
+
+
+
+URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png
+
+
+
+background-image-for-todo-list
+
+
+
+CSS Colors used:
+
+Background color for button:
+
+orange
+Text color:
+
+white
+
+
+CSS Font families used:
+
+Roboto
 
 Todo list - Output
 
